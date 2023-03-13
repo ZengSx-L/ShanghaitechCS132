@@ -1,0 +1,16 @@
+python -m PyQt5.uic.pyuic uis/Account.ui -o pys/Account_UI.py
+python -m PyQt5.uic.pyuic uis/Boughthistory.ui -o pys/Bought_UI.py
+python -m PyQt5.uic.pyuic uis/Buy_page.ui -o pys/Buy_UI.py
+python -m PyQt5.uic.pyuic uis/Comment.ui -o pys/Comment_UI.py
+python -m PyQt5.uic.pyuic uis/Edit.ui -o pys/Edit_UI.py
+python -m PyQt5.uic.pyuic uis/login_form.ui -o pys/Log_UI.py
+python -m PyQt5.uic.pyuic uis/Mainpage.ui -o pys/Mainpage_UI.py
+python -m PyQt5.uic.pyuic uis/ManageProducts.ui -o pys/ManageProducts_UI.py
+python -m PyQt5.uic.pyuic uis/Recharge.ui -o pys/Recharge_UI.py
+python -m PyQt5.uic.pyuic uis/Sell_page.ui -o pys/Sell_UI.py
+python -m PyQt5.uic.pyuic uis/sign_up_form.ui -o pys/Signup_UI.py
+python -m PyQt5.uic.pyuic uis/View.ui -o pys/View_UI.py     
+python -m PyQt5.uic.pyuic uis/buyconfirm.ui -o pys/Confirm_UI.py
+python -m PyQt5.uic.pyuic uis/History.ui -o pys/History_UI.py
+python -m PyQt5.uic.pyuic uis/chat.ui -o pys/chat_UI.py
+python -m PyQt5.uic.pyuic uis/Chatlog.ui -o pys/Chatlog_UI.py
